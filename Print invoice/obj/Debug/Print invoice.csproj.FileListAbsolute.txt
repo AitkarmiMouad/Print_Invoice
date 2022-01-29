@@ -1,0 +1,10 @@
+D:\MOUAD\OFPPT\evenementielle - Copie\Moraja3a\Print invoice\Print invoice\bin\Debug\Print invoice.exe.config
+D:\MOUAD\OFPPT\evenementielle - Copie\Moraja3a\Print invoice\Print invoice\bin\Debug\Print invoice.exe
+D:\MOUAD\OFPPT\evenementielle - Copie\Moraja3a\Print invoice\Print invoice\bin\Debug\Print invoice.pdb
+D:\MOUAD\OFPPT\evenementielle - Copie\Moraja3a\Print invoice\Print invoice\obj\Debug\Print invoice.csprojAssemblyReference.cache
+D:\MOUAD\OFPPT\evenementielle - Copie\Moraja3a\Print invoice\Print invoice\obj\Debug\Print_invoice.Form1.resources
+D:\MOUAD\OFPPT\evenementielle - Copie\Moraja3a\Print invoice\Print invoice\obj\Debug\Print_invoice.Properties.Resources.resources
+D:\MOUAD\OFPPT\evenementielle - Copie\Moraja3a\Print invoice\Print invoice\obj\Debug\Print invoice.csproj.GenerateResource.cache
+D:\MOUAD\OFPPT\evenementielle - Copie\Moraja3a\Print invoice\Print invoice\obj\Debug\Print invoice.csproj.CoreCompileInputs.cache
+D:\MOUAD\OFPPT\evenementielle - Copie\Moraja3a\Print invoice\Print invoice\obj\Debug\Print invoice.exe
+D:\MOUAD\OFPPT\evenementielle - Copie\Moraja3a\Print invoice\Print invoice\obj\Debug\Print invoice.pdb
